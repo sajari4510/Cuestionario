@@ -49,25 +49,3 @@
 .register-form button:hover {
     background-color: #218838;
 }
-/* Estilo del botón de Cuestionario */
-#cuestionarioBtn {
-    padding: 10px 20px;
-    background-color: #007BFF; /* Color azul para el botón */
-    border: none;
-    border-radius: 5px;
-    color: white;
-    cursor: pointer;
-    font-size: 1.1em;
-    margin-top: 30px;
-}
-
-#cuestionarioBtn:hover {
-    background-color: #0056b3; /* Color azul más oscuro al pasar el ratón */
-}
-
-
-.error-message {
-    color: red;
-    font-size: 1em;
-    margin-top: 15px;
-}
